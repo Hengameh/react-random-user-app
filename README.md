@@ -2,6 +2,7 @@
 ###### Generete random users - written in React
 
 **Axios:** Promise based HTTP client to fetch data from randomuser.me api
+
 **No [React Hooks feature](https://reactjs.org/docs/hooks-intro.html) used in this project.**
 
 Desktop Medium             |  Desktop Small 
