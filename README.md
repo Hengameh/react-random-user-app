@@ -2,6 +2,7 @@
 ###### Generete random users - written in React
 
 **Axios:** Promise based HTTP client to fetch data from randomuser.me api
+**No [React Hooks feature](https://reactjs.org/docs/hooks-intro.html) used in this project.**
 
 Desktop Medium             |  Desktop Small 
 :-------------------------:|:-------------------------:
@@ -10,7 +11,6 @@ Desktop Medium             |  Desktop Small
 **Demo:** https://hengameh.github.io/react-random-user-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-No hooks
 
 ## Overview
 Here is my responsive React Random User app which easily created with no build configuration ([Creating an App](https://github.com/facebook/create-react-app#creating-an-app))
