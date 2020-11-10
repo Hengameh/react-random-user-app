@@ -1,0 +1,17 @@
+/********************Footer CSS***********************/
+#Footer {
+  position: fixed;
+  text-align: right;
+  margin: 0px;
+  bottom: 0px;
+  color: #4d4d4d;
+  font-size: 8px;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  padding: 5px 25px;
+  z-index: 5;
+}
+
+a {
+  color: #117088;
+}
